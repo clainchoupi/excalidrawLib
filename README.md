@@ -29,6 +29,17 @@ Kanoma's logo :
 - Blue 		#43338e
 ![Kanoma](assets/extracted/kanoma.svg)
 
+Salesforce's previous logo : 
+- Blue	 	#009ddc
+![Salesforce](assets/extracted/Salesforce.svg)
+
+Slack's logo :
+- Blue		#36c5f0
+- Green		#2eb67d
+- Yellow	#ecb22e
+- Red		#e01e5a
+![Slack](assets/extracted/Slack.svg)
+
 SmartBear's logo :
 - Orange	#ff730b
 ![SmartBear](assets/extracted/smartbear.svg)
@@ -46,9 +57,12 @@ Strava's logo :
 - Orange 	#fcdb00
 ![Strava](assets/extracted/Strava.svg)
 
-
 Twitter's logo :
-- Blue #55acee
+- Blue 		#55acee
 ![Twitter](assets/extracted/Twitter.svg)
 
+Vue's logo :
+- Grey 		#31475e
+- Green 	#3fb984
+![Vue](assets/extracted/Vue.svg)
 
