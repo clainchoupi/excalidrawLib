@@ -10,7 +10,6 @@ So here is a first contribution (I will use these for later blog articles, stay 
 
 ## My custom icons and logos
 Here is a sample of the logos you can find in the library. Feel free to use them!
-
 <img src="assets/aFewLogos.svg" width=70%>
 
 ## :thinking: How to use these icons ?
