@@ -1,5 +1,6 @@
 # Welcome to excalidrawLib
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 I wanted to use Excalidraw for other stuff than just playing and drawing random shapes.
 So here is a first contribution (I will use these for later blog articles, stay tuned ^^)
